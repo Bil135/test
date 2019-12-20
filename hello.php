@@ -6,6 +6,9 @@ $total = $price + $discount;
 echo $total;
 $sub = $price-($discount);
 echo $sub;
+$mul = $price * $discount;
+echo $mul;
+$div = $price / $discount;
 // its also done
 // its done
 ?>
