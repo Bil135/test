@@ -9,6 +9,7 @@ echo $sub;
 $mul = $price * $discount;
 echo $mul;
 $div = $price / $discount;
+echo "Pakistan zindabad";
 // its also done
 // its done
 ?>
