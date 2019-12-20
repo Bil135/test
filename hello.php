@@ -7,4 +7,5 @@ echo $total;
 $sub = $price-($discount);
 echo $sub;
 // its also done
+// its done
 ?>
